@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio<6.0.0
+joblib
+scikit-learn
+pydantic
+plotly
+pandas
